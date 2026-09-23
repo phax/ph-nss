@@ -66,7 +66,7 @@ file. Mozilla changes it every couple of weeks. To create a new version:
 
 # News and Noteworthy
 
-v1.0.0 - work in progress
+v1.0.0 - 2026-09-23
 * Initial version
 * Extracted `MozillaNSSTrustStore` and the `MainConvertNSSCertData` conversion tool from `peppol-commons` v12.4.2
 * **Breaking API change** compared to `peppol-commons`: the package changed from `com.helger.peppol.security` to `com.helger.nss`
