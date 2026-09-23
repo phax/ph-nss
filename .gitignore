@@ -1,0 +1,12 @@
+.claude/
+.settings/
+target/
+
+*.iml
+hs_err_pid*
+
+.classpath
+.DS_Store
+.pmd
+.project
+zz
