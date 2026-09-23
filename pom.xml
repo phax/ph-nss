@@ -25,7 +25,7 @@
     <version>3.1.0</version>
   </parent>
   <artifactId>ph-nss</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
   <name>ph-nss</name>
   <description>Mozilla NSS root certificate trust store for Java applications</description>
@@ -44,7 +44,7 @@
     <connection>scm:git:https://github.com/phax/ph-nss.git</connection>
     <developerConnection>scm:git:https://github.com/phax/ph-nss.git</developerConnection>
     <url>https://github.com/phax/ph-nss</url>
-    <tag>ph-nss-1.0.0</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <organization>
