@@ -1,4 +1,4 @@
-Content of the Mozilla NSS Root Certificate Truststore v2.90 (last update: 2026-10-08)
+Content of the Mozilla NSS Root Certificate Truststore v2.92 (last update: 2026-10-20)
 Password: **changeit**
 
 * Alias `ac_raiz_fnmt_rcm` refering to OU=AC RAIZ FNMT-RCM,O=FNMT-RCM,C=ES (valid from 2008-10-29T16:59:56+01:00 to 2030-01-01T01:00:00+01:00)
@@ -44,9 +44,6 @@ Password: **changeit**
 * Alias `digicert_trusted_root_g4` refering to CN=DigiCert Trusted Root G4,OU=www.digicert.com,O=DigiCert Inc,C=US (valid from 2013-08-01T14:00:00+02:00 to 2038-01-15T13:00:00+01:00)
 * Alias `e_szigno_root_ca_2017` refering to CN=e-Szigno Root CA 2017,2.5.4.97=#0c0e56415448552d3233353834343937,O=Microsec Ltd.,L=Budapest,C=HU (valid from 2017-08-22T14:07:06+02:00 to 2042-08-22T14:07:06+02:00)
 * Alias `e_szigno_tls_root_ca_2023` refering to CN=e-Szigno TLS Root CA 2023,2.5.4.97=#0c0e56415448552d3233353834343937,O=Microsec Ltd.,L=Budapest,C=HU (valid from 2023-07-17T16:00:00+02:00 to 2038-07-17T16:00:00+02:00)
-* Alias `emsign_ecc_root_ca___c3` refering to CN=emSign ECC Root CA - C3,O=eMudhra Inc,OU=emSign PKI,C=US (valid from 2018-02-18T19:30:00+01:00 to 2043-02-18T19:30:00+01:00)
-* Alias `emsign_ecc_root_ca___g3` refering to CN=emSign ECC Root CA - G3,O=eMudhra Technologies Limited,OU=emSign PKI,C=IN (valid from 2018-02-18T19:30:00+01:00 to 2043-02-18T19:30:00+01:00)
-* Alias `emsign_root_ca___c1` refering to CN=emSign Root CA - C1,O=eMudhra Inc,OU=emSign PKI,C=US (valid from 2018-02-18T19:30:00+01:00 to 2043-02-18T19:30:00+01:00)
 * Alias `emsign_root_ca___g1` refering to CN=emSign Root CA - G1,O=eMudhra Technologies Limited,OU=emSign PKI,C=IN (valid from 2018-02-18T19:30:00+01:00 to 2043-02-18T19:30:00+01:00)
 * Alias `gdca_trustauth_r5_root` refering to CN=GDCA TrustAUTH R5 ROOT,O=GUANG DONG CERTIFICATE AUTHORITY CO.\,LTD.,C=CN (valid from 2014-11-26T06:13:15+01:00 to 2040-12-31T16:59:59+01:00)
 * Alias `globalsign_ecc_root_ca___r4` refering to CN=GlobalSign,O=GlobalSign,OU=GlobalSign ECC Root CA - R4 (valid from 2012-11-13T01:00:00+01:00 to 2038-01-19T04:14:07+01:00)
