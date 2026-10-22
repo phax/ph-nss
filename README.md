@@ -67,7 +67,7 @@ file. Mozilla changes it every couple of weeks. To create a new version:
 # News and Noteworthy
 
 v1.0.1 - 2026-10-20
-* Updated to Mozilla NSS v2.92
+* Updated to Mozilla NSS v2.92 (removes eMudhra certificates - CVE-2026-91403)
 
 v1.0.0 - 2026-09-23
 * Initial version
