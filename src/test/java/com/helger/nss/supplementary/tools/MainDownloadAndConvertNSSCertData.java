@@ -84,7 +84,7 @@ import com.helger.security.keystore.EKeyStoreType;
  *
  * @author Philip Helger
  */
-public final class MainConvertNSSCertData
+public final class MainDownloadAndConvertNSSCertData
 {
   /** The URL to download the latest NSS certdata.txt */
   public static final String CERTDATA_URL = "https://hg-edge.mozilla.org/projects/nss/raw-file/tip/lib/ckfw/builtins/certdata.txt";
@@ -108,9 +108,9 @@ public final class MainConvertNSSCertData
   /** The regular expression to extract the trust list version from nssckbi.h */
   private static final Pattern PATTERN_BUILTINS_VERSION = Pattern.compile ("#define\\s+NSS_BUILTINS_LIBRARY_VERSION\\s+\"([^\"]+)\"");
 
-  private static final Logger LOGGER = LoggerFactory.getLogger (MainConvertNSSCertData.class);
+  private static final Logger LOGGER = LoggerFactory.getLogger (MainDownloadAndConvertNSSCertData.class);
 
-  private MainConvertNSSCertData ()
+  private MainDownloadAndConvertNSSCertData ()
   {}
 
   /**
